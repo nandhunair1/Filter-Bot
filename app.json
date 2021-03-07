@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Telegram's Best Filter Bot😴Developed By DX_Botz",
+   "description": "Telegram's Best Filter Bot😴Developed By MrC《》VENOM",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -33,7 +33,7 @@
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "𒆜DⱥℝkͥAnͣgͫeℓ𒆜"
+         "value": "MrC《》VENOM"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -42,7 +42,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
+         "value": "https://telegra.ph/file/dcdd08189574239cb15eb.jpg"    
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -90,7 +90,7 @@
       
    ],
    "name": "Filter Bot",
-   "repository": "https://github.com/Jijinr/Filter-Bot",
+   "repository": "https://github.com/nandhunair1/Filter-Bot",
    "success_url": "https://telegram.dog/Filters_Robot",
-   "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
+   "logo": "https://telegra.ph/file/dcdd08189574239cb15eb.jpg"
 }
